@@ -7,3 +7,15 @@ Copyright (c) 2026 PicPock. All Rights Reserved.
 - 再配布（改変の有無を問わず）
 - 商用利用
 - リバースエンジニアリング
+
+---
+
+Copyright (c) 2026 PicPock. All Rights Reserved.
+
+Permission is granted to use this software (PicPock) binary free of charge
+for personal, non-commercial purposes only.
+
+The following actions are prohibited:
+- Redistribution (with or without modification)
+- Commercial use
+- Reverse engineering
