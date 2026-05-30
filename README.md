@@ -4,7 +4,8 @@
 <img src="./docs/images/PicPock_mascot.jpg" width="200">
 
 ## Website 
-https://picpock.net
+- (日本語)　　https://picpock.net
+- (English)　　https://picpock.net/en
 
 ## Download
 [Download PicPock](https://github.com/s-uzumaki/PicPock-App/releases/latest)
