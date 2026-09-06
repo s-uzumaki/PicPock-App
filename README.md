@@ -1,11 +1,13 @@
 # PicPock (Picture in your pocket)
 [日本語](#japanese) | [English](#english) 
 
-<img src="./docs/images/PicPock_mascot.jpg" width="200">
+<img src="./docs/images/D010_Dictionary_1_en.jpg" width="500">
 
 ## Website 
 - (日本語)　　https://picpock.net
 - (English)　　https://picpock.net/en
+
+<img src="./docs/images/PicPock_mascot.jpg" width="120">
 
 ## Download
 [Download PicPock](https://github.com/s-uzumaki/PicPock-App/releases/latest)
