@@ -1,16 +1,13 @@
 # PicPock (Picture in your pocket)
-[日本語](#japanese) | [English](#english) 
+### [日本語](#japanese) | [English](#english) 
 
 <img src="./docs/images/D010_Dictionary_1_en.jpg" width="500">
 
 ## Website 
-- (日本語)　　https://picpock.net
-- (English)　　https://picpock.net/en
+### (日本語)　https://picpock.net
+### (English)　https://picpock.net/en
 
 <img src="./docs/images/PicPock_mascot.jpg" width="120">
-
-## Download
-[Download PicPock](https://github.com/s-uzumaki/PicPock-App/releases/latest)
 
 <a id="japanese"></a>
 ## ＜日本語＞
@@ -31,46 +28,26 @@ PicPock（ピックポック）は、あなただけのお気に入りのピク�
 - **Windows**: Windows 10 / 11 (64bit)
 - **macOS**: macOS 14 Sonoma 以降
 
-※ Windows 11 および macOS Sonoma (Intel) 環境にて動作確認済みです。
+---
+
+## ダウンロード
+### [👉 Download PicPock](https://github.com/s-uzumaki/PicPock-App/releases/latest)
+
+| プラットフォーム | ダウンロードファイル |
+| --- | --- | 
+| Windows | picpock-setup-X.X.X.exe |
+| Mac (Apple Silicon) | PicPock-X.X.X-arm64.dmg |
+| Mac (Intel) | PicPock-X.X.X-x64.dmg |
 
 ---
 
 ### インストール
-#### ＜Windows の場合＞
-1. インストーラーをダウンロードして実行してください。(picpock-setup-X.X.X.exe)
+#### ＜Windows＞
+- [インストール手順（Windows）](./Install_windows.md)
 
-2. Microsoft Edge を使用している場合、ダウンロード時に「一般的にダウンロードされていません。」という警告が表示されることがあります。  
-これは、インストーラーがリリース直後のため、Microsoft Edge / SmartScreen の「ダウンロード実績」が十分でないことが原因です。（マルウェア等の不具合ではありません）。  
-もし警告が表示された場合は、以下の手順でダウンロードを行ってください。
-
-- 警告の右側にある **「…」** メニューをクリックし、**「保存」** を選択します。
-
-- **「保持する」** をクリックすると、通常通りダウンロードが完了します。  
-
-![SmartScreen](./docs/images/Edge_download_ja.jpg)
-
-3. 本アプリは個人開発のためデジタル署名を行っておらず、インストール時にWindows SmartScreenの警告が表示されることがあります。以下の手順で回避が可能です。
-
-  - 青い画面が表示されたら 「詳細情報」 をクリックします。
-
-  - 右下に表示される 「実行」 ボタンをクリックすると、インストールが開始されます。
-
-![SmartScreen](./docs/images/SmartScreen_ja.jpg)
-
-#### ＜Mac の場合＞
-1. インストーラーをダウンロードして実行してください。(PicPock-X.X.X-x64.dmg)
-
-2. 本アプリは個人開発のためデジタル署名を行っておらず、インストール時に「開発元を検証できません」という警告が表示されます。
-以下の手順で回避が可能です。
-
-- Finderでアプリのアイコンを右クリック（または Control を押しながらクリック）し、「開く」を選択します。
-
-- 「開発元を検証できません」という警告が出ますが、そのまま「開く」をクリックします。
-
----
-
-### アンインストール
-- Windows、Mac ともにOS標準のアプリの削除画面からアンインストールを実行してください。
+#### ＜Mac＞
+- [インストール手順（macOS 15 Sequoia 以降）](./Install_mac_Sequoia.md)
+- [インストール手順（macOS 14 Sonoma 以前）](./Install_mac_Sonoma.md)
 
 ---
 
@@ -86,7 +63,6 @@ PicPock（ピックポック）は、あなただけのお気に入りのピク�
 
 バックアップは利用者ご自身で行ってください。
 
----
 
 <a id="english"></a>
 ## ＜English＞
@@ -109,44 +85,26 @@ PicPock is free software that allows anyone to create their own personalized pic
 - **Windows**: Windows 10 / 11 (64-bit)
 - **macOS**: macOS 14 Sonoma or later
 
-Operation has been verified on Windows 11 and macOS Sonoma (Intel).
+---
+
+## Download
+### [👉 Download PicPock](https://github.com/s-uzumaki/PicPock-App/releases/latest)
+
+| Platform | Download File |
+| --- | --- | 
+| Windows | picpock-setup-X.X.X.exe |
+| Mac (Apple Silicon) | PicPock-X.X.X-arm64.dmg |
+| Mac (Intel) | PicPock-X.X.X-x64.dmg |
 
 --- 
 
 ### Installation
 #### ＜Windows＞
-1. Download and run the installer (picpock-setup-X.X.X.exe).
-
-2. When downloading the app installer using Microsoft Edge, you may see a warning saying "[filename] isn't commonly downloaded."  
-This occurs because the installer is a recent release and does not yet have enough download history with Microsoft Edge / SmartScreen.  (Rest assured, this is not due to malware or a security issue.)    
- If this warning appears, please follow these steps to complete the download:
-
- - Click the "..." (More options) menu next to the warning and select "Keep".
-
- - Then select "Keep anyway" to complete the download.
-
-![SmartScreen](./docs/images/Edge_download_en.jpg)
-
-3. As this is an independently developed app without a digital signature, a Windows SmartScreen warning may appear. You can proceed by following these steps:
-
-- Click "More info" on the blue warning screen.
-
-- Click the "Run anyway" button that appears at the bottom right to start the installation.
-
-![SmartScreen](./docs/images/SmartScreen_en.jpg)
+- [Installation guide (Windows)](./Install_windows.md)
 
 #### ＜Mac＞
-1. Download and open the installer (PicPock-X.X.X-x64.dmg).
-
-2. Since this app is not digitally signed, a warning stating "App cannot be opened because the developer cannot be verified" will appear. You can proceed with these steps:
-
-- Right-click (or Control-click) the app icon in Finder and select "Open".
-- When the warning appears, click "Open" again to launch the app.
-
----
-
-### Uninstallation
-Use the standard OS application removal process for both Windows and macOS.
+- [Installation guide (macOS 15 Sequoia or later)](./Install_mac_Sequoia.md)
+- [Installation guide (macOS 14 Sonoma or earlier)](./Install_mac_Sonoma.md)
 
 ---
 
