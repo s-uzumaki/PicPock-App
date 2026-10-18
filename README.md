@@ -100,11 +100,11 @@ PicPock is free software that allows anyone to create their own personalized pic
 
 ### Installation
 #### ＜Windows＞
-- [Installation guide (Windows)](./Install_windows.md)
+- [Installation guide (Windows)](./Install_windows.md#english)
 
 #### ＜Mac＞
-- [Installation guide (macOS 15 Sequoia or later)](./Install_mac_Sequoia.md)
-- [Installation guide (macOS 14 Sonoma or earlier)](./Install_mac_Sonoma.md)
+- [Installation guide (macOS 15 Sequoia or later)](./Install_mac_Sequoia.md#english)
+- [Installation guide (macOS 14 Sonoma or earlier)](./Install_mac_Sonoma.md#english)
 
 ---
 
